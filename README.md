@@ -7,10 +7,10 @@ Construa o seu próprio cronômetro de estudos. Nesse mini projeto você irá ut
   - Botão "Pomodoro" para contagem de 25 minutos.
   - Botão "Intervalo Curto" para contagem de 05 minutos.
   - Botão "Intervalo Longo" para contagem de 25 minutos.
-- Exiba a contagem do cronometro (que deverá ser regressiva).
+- Exiba a contagem do cronômetro (que deverá ser regressiva).
   - O campo deve ter como valor padrão 25:00 e alterar conforme o tipo de contagem selecionada.
   - Ele deverá partir do valor inicial e chegar até 00:00. 
-- Exiba o Botão "Começar" para iniciar a contagem.
+- Exiba o botão "Começar" para iniciar a contagem.
   - Ao clicar no botão, a contagem do cronômetro deve acontecer de acordo com o tipo de contagem selecionado (pomodoro, intervalo curto ou intervalo longo).
 
 ## 🔨 Desafio extra para quem quer ir além
@@ -19,7 +19,7 @@ Construa o seu próprio cronômetro de estudos. Nesse mini projeto você irá ut
 - Exibir a lista de tarefas adicionadas.
   - A lista deve persistir quando a página for fechada e aberta novamente.
 - Opção para excluir tarefas da lista de tarefas.
-- Mostrar no titulo do site o cronometro de acordo com o tipo de contagem selecionada.
+- Mostrar no título do site o cronômetro de acordo com o tipo de contagem selecionada.
 - Colocar quantidade de pomodoros feitos.
 
 ## 💻 Setup do projeto
@@ -58,7 +58,7 @@ Temos uma sugestão de design no Figma. Entretanto, fique à vontade para montar
 
 ### Posso utilizar React ou outras bibliotecas?
 
-Você pode utilizar as ferramentas que desejar para implementar esse projeto. Porém, o objetivo principal aqui é exercitar os fundamentos de HTML, CSS e JavaScript e a resolução oficial será implementa dessa maneira.
+Você pode utilizar as ferramentas que desejar para implementar esse projeto. Porém, o objetivo principal aqui é exercitar os fundamentos de HTML, CSS e JavaScript e a resolução oficial será implementada dessa maneira.
 
 ### Posso utilizar frameworks de estilo?
 
