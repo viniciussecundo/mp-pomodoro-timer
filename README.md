@@ -7,10 +7,10 @@ Construa o seu próprio cronômetro de estudos. Nesse mini projeto você irá ut
   - Botão "Pomodoro" para contagem de 25 minutos.
   - Botão "Intervalo Curto" para contagem de 05 minutos.
   - Botão "Intervalo Longo" para contagem de 25 minutos.
-- Exiba a contagem do cronômetro (que deverá ser regressiva).
+- Exiba a contagem do cronometro (que deverá ser regressiva).
   - O campo deve ter como valor padrão 25:00 e alterar conforme o tipo de contagem selecionada.
   - Ele deverá partir do valor inicial e chegar até 00:00. 
-- Exiba o botão "Começar" para iniciar a contagem.
+- Exiba o Botão "Começar" para iniciar a contagem.
   - Ao clicar no botão, a contagem do cronômetro deve acontecer de acordo com o tipo de contagem selecionado (pomodoro, intervalo curto ou intervalo longo).
 
 ## 🔨 Desafio extra para quem quer ir além
@@ -19,7 +19,7 @@ Construa o seu próprio cronômetro de estudos. Nesse mini projeto você irá ut
 - Exibir a lista de tarefas adicionadas.
   - A lista deve persistir quando a página for fechada e aberta novamente.
 - Opção para excluir tarefas da lista de tarefas.
-- Mostrar no título do site o cronômetro de acordo com o tipo de contagem selecionada.
+- Mostrar no titulo do site o cronometro de acordo com o tipo de contagem selecionada.
 - Colocar quantidade de pomodoros feitos.
 
 ## 💻 Setup do projeto
@@ -46,7 +46,9 @@ Temos uma sugestão de design no Figma. Entretanto, fique à vontade para montar
 
 ### Figma
 
-🔗 [Link do design](https://www.figma.com/community/file/1286318437047155032/)
+🔗 [Link do design](https://www.figma.com/community/file/1286318437047155032/mini-projeto-pomodoro-timer)
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fy5vXhhVSCGCk9CiyBT3i8b%2F%255BMini-projeto%255D-Pomodoro-Timer%3Ftype%3Ddesign%26node-id%3D11%253A220%26mode%3Ddesign%26t%3DVvSKufFp49Hnzpzc-1" allowfullscreen></iframe>
 
 ## 👉🏽 Sobre esse mini-projeto
 
@@ -58,9 +60,8 @@ Temos uma sugestão de design no Figma. Entretanto, fique à vontade para montar
 
 ### Posso utilizar React ou outras bibliotecas?
 
-Você pode utilizar as ferramentas que desejar para implementar esse projeto. Porém, o objetivo principal aqui é exercitar os fundamentos de HTML, CSS e JavaScript e a resolução oficial será implementada dessa maneira.
+Você pode utilizar as ferramentas que desejar para implementar esse projeto. Porém, o objetivo principal aqui é exercitar os fundamentos de HTML, CSS e JavaScript e a resolução oficial será implementa dessa maneira.
 
 ### Posso utilizar frameworks de estilo?
 
 Sim! Apesar do objetivo principal desse projeto ser exercitar suas habilidades com CSS puro, fique à vontade para utilizar as ferramentas que desejar.
-# mp-pomodoro-timer
