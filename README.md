@@ -48,8 +48,6 @@ Temos uma sugestão de design no Figma. Entretanto, fique à vontade para montar
 
 🔗 [Link do design](https://www.figma.com/community/file/1286318437047155032/mini-projeto-pomodoro-timer)
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fy5vXhhVSCGCk9CiyBT3i8b%2F%255BMini-projeto%255D-Pomodoro-Timer%3Ftype%3Ddesign%26node-id%3D11%253A220%26mode%3Ddesign%26t%3DVvSKufFp49Hnzpzc-1" allowfullscreen></iframe>
-
 ## 👉🏽 Sobre esse mini-projeto
 
 ### Tecnologias sugeridas
